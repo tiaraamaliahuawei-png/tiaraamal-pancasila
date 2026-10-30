@@ -1,0 +1,6 @@
+{
+  "name": "Wayang & Ragam Hias - Komik Flip Book Interaktif",
+  "description": "Komik interaktif edukasi seni rupa nusantara dengan animasi flip book, narator suara otomatis, dan alunan backsound gamelan dinamis yang disesuaikan untuk layar mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
